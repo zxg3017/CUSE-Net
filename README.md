@@ -19,5 +19,7 @@ git clone https://github.com/zxg3017/CUSE-Net.git
 cd CUSE-Net
 
 2. Data Preparation
+
 (1) Download the ISIC2017 dataset from https://challenge.isic-archive.com/data/
+
 (2) Download the SCISC dataset from https://github.com/zxg3017/SCISC-dataset
