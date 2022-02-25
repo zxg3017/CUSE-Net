@@ -15,7 +15,8 @@ Usage
 Clone this repo
 
 git clone https://github.com/zxg3017/CUSE-Net.git
-cd Nn-Net
+
+cd CUSE-Net
 
 2. Data Preparation
 (1) Download the ISIC2017 dataset from https://challenge.isic-archive.com/data/
